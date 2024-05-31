@@ -1,0 +1,14 @@
+{
+  "name": "fullstack-dev-template",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "install:deps": "bun i"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
